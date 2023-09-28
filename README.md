@@ -64,8 +64,8 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 ### Projects (Non-confidential only)
 <!--2D human-->
 <p>
-<img src="images/dummy.jpg" align="left" style="width:150px; height:200px; margin-right:10px;  vertical-align=middle;">
-<img src="images/dummy.jpg" align="left" style="width:150px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/dummy.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/dummy.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> SpherePHD: Applying CNNs on 360∘ Images With Non-Euclidean Spherical PolyHeDron Representation
  </font></b>
