@@ -14,14 +14,22 @@ Focused on computer vision and computer graphics that handle human stuffs(face, 
 
 ### Expertise
 
-**1)** Camera intrinsic/extrinsic calibration(both pinhole, fisheye) and Image warping\
-**2)** Optimization based on [CERES](https://github.com/ceres-solver/ceres-solver) (e.g. 6DOF pose estimation)\
+**1)** Camera intrinsic/extrinsic calibration(both pinhole, fisheye) and Image warping \
+**2)** Optimization based on [CERES](https://github.com/ceres-solver/ceres-solver) (e.g. 6DOF pose estimation) \
 **3)** Neural rendering / surface reconstruction \
 **4)** 2D/3D Human pose and shape estimation\
 **5)** Omnidirectional image handling \
 **6)** Structure from motion and Multiview Stereo, Feature matching 
 
 <br>
+
+### Skills
+**1)** Python (numpy, torch, opencv, etc.)    👍👍👍👍👍 \
+**2)** C++ (boost, tbb, opencv, ceres, etc.)  👍👍👍 \
+**3)** Docker/Git/Linux                       👍👍👍 \
+**4)** Calibration tools (camodocal, basalt)  👍👍👍 \
+<br>
+
 
 ### Publications (Conference)
 <!--SpherePHD-->
