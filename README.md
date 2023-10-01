@@ -176,8 +176,8 @@ I've covered various camera model(BC, KB, UCM, DS, etc.) and reproduced them usi
 ### Career
 <!--naverlabs-->
 <p>
-<img src="images/naverlabs0.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
-<img src="images/naverlabs1.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/naverlabs0.png" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/naverlabs1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> NAVERLABS, KOREA (2020.12 ~ now)
  </font></b>
@@ -194,8 +194,8 @@ I've been working at Robot vision team in Vision group as <b>Technical Research 
 
 <!--keti-->
 <p>
-<img src="images/keti0.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
-<img src="images/keti1.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/keti0.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/keti1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> KETI, Pangyo (2020.8 ~ 2020.12)
  </font></b>
@@ -212,8 +212,8 @@ I shortly worked human team as an internship.
 
 <!--KAIST-->
 <p>
-<img src="images/kaist0.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
-<img src="images/kaist1.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/kaist0.png" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/kaist1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> KAIST, Daejeon (2018.8 ~ 2020.8)
  </font></b>
@@ -230,8 +230,8 @@ I graduated VILAB advised by Kuk-Jin Yoon after finishing Master degree course.
 
 <!--POSTECH-->
 <p>
-<img src="images/postech0.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
-<img src="images/postech1.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/postech0.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/postech1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> POSTECH, Pohang (2013.3 ~ 2018.8)
  </font></b>
