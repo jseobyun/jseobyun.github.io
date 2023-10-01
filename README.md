@@ -185,6 +185,7 @@ I've covered various camera model(BC, KB, UCM, DS, etc.) and reproduced them usi
 <br>
 I've been working at Robot vision team in Vision group as <b>Technical Research Personnemilitary</b> which is one kind of military service. 
 <br>
+<br>
 </div>
 <br>
 <br>
@@ -201,6 +202,7 @@ I've been working at Robot vision team in Vision group as <b>Technical Research 
 <br>
 <br>
 I shortly worked human team as an internship. 
+<br>
 <br>
 </div>
 <br>
@@ -219,6 +221,7 @@ I shortly worked human team as an internship.
 <br>
 I graduated VILAB advised by Kuk-Jin Yoon after finishing Master degree course.
 <br>
+<br>
 </div>
 <br>
 <br>
@@ -235,6 +238,7 @@ I graduated VILAB advised by Kuk-Jin Yoon after finishing Master degree course.
 <br>
 <br>
 I graduated Mechnical enginerring department with 1 year leave of absence. During the leave of absence, I worked at start-up company that developed Robot control system.
+<br>
 <br>
 </div>
 <br>
