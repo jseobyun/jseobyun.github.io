@@ -30,6 +30,7 @@ Hello, I'm Jongseob Yun. Thanks to visit this page! I've focused on computer vis
 **2)** C++ (boost, tbb, opencv, ceres, etc.)  👍👍👍 \
 **3)** Docker/Git/Linux                       👍👍👍 \
 **4)** Calibration tools (camodocal, basalt)  👍👍👍
+
 <br>
 
 
@@ -49,8 +50,7 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 </div>
 </p>
 <br>
-<br>
-<br>
+
 
 ### Publication (Journal)
 <!--SpherePHD TPAMI-->
@@ -68,8 +68,7 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 </div>
 </p>
 <br>
-<br>
-<br>
+
 
 ### Experience
 <!--2D human-->
@@ -189,7 +188,7 @@ I've been working at Robot vision team in Vision group as <b>Technical Research 
 </div>
 <br>
 <br>
-<br>
+
 </p>
 
 <!--keti-->
@@ -225,7 +224,6 @@ I graduated VILAB advised by Kuk-Jin Yoon after finishing Master degree course.
 </div>
 <br>
 <br>
-<br>
 </p>
 
 <!--POSTECH-->
@@ -241,7 +239,6 @@ I graduated Mechnical enginerring department with 1 year leave of absence. Durin
 <br>
 <br>
 </div>
-<br>
 <br>
 <br>
 </p>
