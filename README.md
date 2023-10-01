@@ -1,16 +1,18 @@
-![image](./images/dummy.jpg){: style="float: right; width: 175px; height: 225px; margin-right: 1em; margin-top: 0.5em "}
+![image](./images/profile.jpg){: style="float: right; width: 200px; height: 200px; margin-right: 1em; margin-top: 0.5em "}
 
 ### About me
-I am currently working at NAVERLABS, Korea. I achieved Master at [VILAB](http://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology(KAIST) and Baschelor's degree at Pohang University of Science and Technology(POSTECH). My advisor was Prof. [Kuk-Jin Yoon](https://scholar.google.ca/citations?user=1NvBj_gAAAAJ&hl=en), whom I respect. Please contact me if you need through e-mail, jseob.y@naverlabs.com.
+Hello, I'm Jongseob Yun. Thanks to visit this page! I've focused on computer vision and computer graphics that handle human stuffs(face, body pose/shape) and 3D geometric tasks (SfM, MVS, surface reconstruction, neural rendering). I am currently working at NAVERLABS, Korea. Please contact me if you need through e-mail!
 
 **Curriculum Vitae** : It will be updated soon \
 **LinkedIn** : [link](https://www.linkedin.com/in/%EC%A2%85%EC%84%AD-%EC%9C%A4-5b4193260/) \
-**Personal Blog (Korean)** : [link](https://jseobyun.tistory.com) 
-
+**Blog (Korean only)** : [link](https://jseobyun.tistory.com) \
+**Contact** :  jseob.y@naverlabs.com
 <br>
 
-### Research Interest
-Focused on computer vision and computer graphics that handle human stuffs(face, body pose/shape) and 3D geometric tasks (SfM, MVS, surface reconstruction, neural rendering).\
+### Education
+**1)** Master degree from [VILAB](http://vi.kaist.ac.kr/) advised by Prof. [Kuk-Jin Yoon](https://scholar.google.ca/citations?user=1NvBj_gAAAAJ&hl=en), Korea Advanced Institute of Science and Technology(KAIST) \
+**2)** Baschelor's degree at Pohang University of Science and Technology(POSTECH)
+<br>
 
 ### Expertise
 
@@ -27,14 +29,14 @@ Focused on computer vision and computer graphics that handle human stuffs(face, 
 **1)** Python (numpy, torch, opencv, etc.)    👍👍👍👍👍 \
 **2)** C++ (boost, tbb, opencv, ceres, etc.)  👍👍👍 \
 **3)** Docker/Git/Linux                       👍👍👍 \
-**4)** Calibration tools (camodocal, basalt)  👍👍👍 \
+**4)** Calibration tools (camodocal, basalt)  👍👍👍
 <br>
 
 
 ### Publications (Conference)
 <!--SpherePHD-->
 <p>
-<img src="images/dummy.jpg" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/spherephd_conf.jpg" align="left" style="width:360px; height:135px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360◦ Images
  </font></b>
@@ -53,7 +55,7 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 ### Publications (Journal)
 <!--SpherePHD TPAMI-->
 <p>
-<img src="images/dummy.jpg" align="left" style="width:360px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/spherephd_journal.jpg" align="left" style="width:360px; height:135px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> SpherePHD: Applying CNNs on 360∘∘ Images With Non-Euclidean Spherical PolyHeDron Representation
  </font></b>
@@ -69,22 +71,71 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 <br>
 <br>
 
-### Projects (Non-confidential only)
+### Experiences
 <!--2D human-->
 <p>
-<img src="images/dummy.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
-<img src="images/dummy.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/human2d_pose.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/human2d_bbox.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
-<b><font color="0066CC"> SpherePHD: Applying CNNs on 360∘ Images With Non-Euclidean Spherical PolyHeDron Representation
+<b><font color="0066CC"> Reproducing and Extending OpenPIFPAF
  </font></b>
 <br>
-Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin Yoon
 <br>
-<b>published in  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2020), co-2nd author</b>
+I reproduced 2D HPE algorithm, OpenPIFPAF and extended it by adding bounding box module and absolute human distance module. 
 <br>
-
 </div>
+<br>
+<br>
+<br>
 </p>
+
+
+<!--3D human-->
+<p>
+<img src="images/human3d_result.gif" align="left" style="width:510px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Making 3D human pose annotation tools
+ </font></b>
+<br>
+<br>
+I made 3D human annotaion tool(GUI) based on epipolar geometry. 
+<br>
+</div>
 <br>
 <br>
 <br>
+</p>
+
+<!--obj classic-->
+<p>
+<img src="images/obj_classic0.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/obj_classic1.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Reproducing KinectFusion and VisualHull
+ </font></b>
+<br>
+<br>
+I reproduced KinectFusion and VisualHull pytorch GPU ver. 
+<br>
+</div>
+<br>
+<br>
+<br>
+</p>
+
+<!--obj neural-->
+<p>
+<img src="images/obj_neural0.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/obj_neural1.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Following up 3D neural surface reconstruction SOTAs
+ </font></b>
+<br>
+<br>
+I've followed up NeRF series that focusing on reconstructing surfaces. Additionally, I invented the method to fill out unscanned region of rigid objects.
+<br>
+</div>
+<br>
+<br>
+<br>
+</p>
