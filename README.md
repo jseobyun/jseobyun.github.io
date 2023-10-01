@@ -33,7 +33,7 @@ Hello, I'm Jongseob Yun. Thanks to visit this page! I've focused on computer vis
 <br>
 
 
-### Publications (Conference)
+### Publication (Conference)
 <!--SpherePHD-->
 <p> 
 <img src="images/spherephd_conf.jpg" align="left" style="width:360px; height:135px; margin-right:10px;  vertical-align=middle;">
@@ -52,7 +52,7 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 <br>
 <br>
 
-### Publications (Journal)
+### Publication (Journal)
 <!--SpherePHD TPAMI-->
 <p>
 <img src="images/spherephd_journal.jpg" align="left" style="width:360px; height:135px; margin-right:10px;  vertical-align=middle;">
@@ -71,7 +71,7 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 <br>
 <br>
 
-### Experiences
+### Experience
 <!--2D human-->
 <p>
 <img src="images/human2d_pose.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
@@ -149,6 +149,92 @@ I reproduced KinectFusion and VisualHull pytorch GPU ver.
 <br>
 <br>
 I've followed up NeRF series that focusing on reconstructing surfaces. Additionally, I invented the method to fill out unscanned region of rigid objects.
+<br>
+</div>
+<br>
+<br>
+<br>
+</p>
+
+<!--obj neural-->
+<p>
+<img src="images/calib_compressed.gif" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/calib.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Various camera model reproduction and calibration
+ </font></b>
+<br>
+<br>
+I've covered various camera model(BC, KB, UCM, DS, etc.) and reproduced them using numpy and pytorch, so I'm familiar with undistortion and warping among camera models. Additionally I've implemented extrinsic calibration pipepline based on CERES by myself.
+<br>
+</div>
+<br>
+<br>
+<br>
+</p>
+
+### Career
+<!--naverlabs-->
+<p>
+<img src="images/naverlabs0.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/naverlabs1.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> NAVERLABS, KOREA (2020.12 ~ now)
+ </font></b>
+<br>
+<br>
+I've been working at Robot vision team in Vision group as <b>Technical Research Personnemilitary</b> which is one kind of military service. 
+<br>
+</div>
+<br>
+<br>
+<br>
+</p>
+
+<!--keti-->
+<p>
+<img src="images/keti0.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/keti1.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> KETI, Pangyo (2020.8 ~ 2020.12)
+ </font></b>
+<br>
+<br>
+I shortly worked human team as an internship. 
+<br>
+</div>
+<br>
+<br>
+<br>
+</p>
+
+<!--KAIST-->
+<p>
+<img src="images/kaist0.png" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/kaist1.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> KAIST, Daejeon (2018.8 ~ 2020.8)
+ </font></b>
+<br>
+<br>
+I graduated VILAB advised by Kuk-Jin Yoon after finishing Master degree course.
+<br>
+</div>
+<br>
+<br>
+<br>
+</p>
+
+<!--POSTECH-->
+<p>
+<img src="images/postech0.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/postech1.jpg" align="left" style="width:250px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> POSTECH, Pohang (2013.3 ~ 2018.8)
+ </font></b>
+<br>
+<br>
+I graduated Mechnical enginerring department with 1 year leave of absence. During the leave of absence, I worked at start-up company that developed Robot control system.
 <br>
 </div>
 <br>
