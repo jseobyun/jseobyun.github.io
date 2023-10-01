@@ -37,7 +37,7 @@ Hello, I'm Jongseob Yun. Thanks to visit this page! I've focused on computer vis
 ### Publication (Conference)
 <!--SpherePHD-->
 <p> 
-<img src="images/spherephd_conf.jpg" align="left" style="width:360px; height:135px; margin-right:10px;  vertical-align=middle;">
+<img src="images/spherephd_video.gif" align="left" style="width:360px; height:150px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360◦ Images
  </font></b>
@@ -55,7 +55,7 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 ### Publication (Journal)
 <!--SpherePHD TPAMI-->
 <p>
-<img src="images/spherephd_journal.jpg" align="left" style="width:360px; height:135px; margin-right:10px;  vertical-align=middle;">
+<img src="images/spherephd_journal.jpg" align="left" style="width:360px; height:150px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> SpherePHD: Applying CNNs on 360∘∘ Images With Non-Euclidean Spherical PolyHeDron Representation
  </font></b>
@@ -82,10 +82,11 @@ Yeonkun Lee*, Jaeseok Jeong∗, <b>Jongseob Yun∗</b>, Wonjune Cho∗, Kuk-Jin 
 <br>
 I reproduced 2D HPE algorithm, OpenPIFPAF and extended it by adding bounding box module and absolute human distance module. 
 <br>
+<br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
-<br>
 </p>
 
 
@@ -99,13 +100,15 @@ I reproduced 2D HPE algorithm, OpenPIFPAF and extended it by adding bounding box
 <br>
 I made 3D human annotaion tool(GUI) based on epipolar geometry. 
 <br>
+<br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
-<br>
+
 </p>
 
-<!--3D human anoot-->
+<!--3D human fit-->
 <p>
 <img src="images/human3d_fit_compressed.gif" align="left" style="width:520px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
@@ -115,10 +118,28 @@ I made 3D human annotaion tool(GUI) based on epipolar geometry.
 <br>
 I made optimization based SMPL fitting algorithm on RGBD images. The pipeline follows SMPLify and VideoAvatar.
 <br>
+<br>
+<br>
+<br>
+<br>
 </div>
+</p>
+
+<!--2D motion synthesis-->
+<p>
+<img src="images/everybodydancenow2.gif" align="left" style="width:520px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Rerpoducing EverybodyDanceNow (2D motion synthesis) for fun
+ </font></b>
+<br>
+<br>
+For practicing GAN framework, I reproduced EverybodyDanceNow pytorch ver. based on arxiv paper.
 <br>
 <br>
 <br>
+<br>
+<br>
+</div>
 </p>
 
 <!--obj classic-->
@@ -132,10 +153,11 @@ I made optimization based SMPL fitting algorithm on RGBD images. The pipeline fo
 <br>
 I reproduced KinectFusion and VisualHull pytorch GPU ver. 
 <br>
+<br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
-<br>
 </p>
 
 <!--obj neural-->
@@ -149,10 +171,11 @@ I reproduced KinectFusion and VisualHull pytorch GPU ver.
 <br>
 I've followed up NeRF series that focusing on reconstructing surfaces. Additionally, I invented the method to fill out unscanned region of rigid objects.
 <br>
+<br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
-<br>
 </p>
 
 <!--obj neural-->
@@ -166,10 +189,13 @@ I've followed up NeRF series that focusing on reconstructing surfaces. Additiona
 <br>
 I've covered various camera model(BC, KB, UCM, DS, etc.) and reproduced them using numpy and pytorch, so I'm familiar with undistortion and warping among camera models. Additionally I've implemented extrinsic calibration pipepline based on CERES by myself.
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
-<br>
+
 </p>
 
 ### Career
@@ -185,9 +211,11 @@ I've covered various camera model(BC, KB, UCM, DS, etc.) and reproduced them usi
 I've been working at Robot vision team in Vision group as <b>Technical Research Personnemilitary</b> which is one kind of military service. 
 <br>
 <br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
+
 
 </p>
 
@@ -203,16 +231,16 @@ I've been working at Robot vision team in Vision group as <b>Technical Research 
 I shortly worked human team as an internship. 
 <br>
 <br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
-<br>
 </p>
 
 <!--KAIST-->
 <p>
 <img src="images/kaist0.png" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
-<img src="images/kaist1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/vilab.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> KAIST, Daejeon (2018.8 ~ 2020.8)
  </font></b>
@@ -221,15 +249,16 @@ I shortly worked human team as an internship.
 I graduated VILAB advised by Kuk-Jin Yoon after finishing Master degree course.
 <br>
 <br>
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
 </p>
 
 <!--POSTECH-->
 <p>
 <img src="images/postech0.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
-<img src="images/postech1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/postech_graduate.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> POSTECH, Pohang (2013.3 ~ 2018.8)
  </font></b>
@@ -238,7 +267,44 @@ I graduated VILAB advised by Kuk-Jin Yoon after finishing Master degree course.
 I graduated Mechnical enginerring department with 1 year leave of absence. During the leave of absence, I worked at start-up company that developed Robot control system.
 <br>
 <br>
+<br>
+<br>
+<br>
 </div>
+</p>
+
+### Honor
+<!--ipiu-->
+<p>
+<img src="images/honor0.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/honor1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> The 31st Image Processing and Image Understanding(IPIU) Best paper award Winner
+ </font></b>
+<br>
+Our paper mentioned as Best paper of the 31st Image Processing and Image Understanding(IPIU)
 <br>
 <br>
+<br>
+<br>
+<br>
+</div>
+</p>
+
+
+<!--scholarship-->
+<p>
+<img src="images/scholar.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/scholar1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> On Dream Future Industry Graduate School Scholarship
+ </font></b>
+<br>
+I was selected the student of On Dream Future Industry Graduate School Scholarship 2019-2020
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
 </p>
