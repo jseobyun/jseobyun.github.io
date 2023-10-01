@@ -35,7 +35,7 @@ Hello, I'm Jongseob Yun. Thanks to visit this page! I've focused on computer vis
 
 ### Publications (Conference)
 <!--SpherePHD-->
-<p>
+<p> 
 <img src="images/spherephd_conf.jpg" align="left" style="width:360px; height:135px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360◦ Images
@@ -90,15 +90,31 @@ I reproduced 2D HPE algorithm, OpenPIFPAF and extended it by adding bounding box
 </p>
 
 
-<!--3D human-->
+<!--3D human anoot-->
 <p>
-<img src="images/human3d_result.gif" align="left" style="width:510px; height:200px; margin-right:10px;  vertical-align=middle;">
+<img src="images/human3d_result_compressed.gif" align="left" style="width:520px; height:200px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
 <b><font color="0066CC"> Making 3D human pose annotation tools
  </font></b>
 <br>
 <br>
 I made 3D human annotaion tool(GUI) based on epipolar geometry. 
+<br>
+</div>
+<br>
+<br>
+<br>
+</p>
+
+<!--3D human anoot-->
+<p>
+<img src="images/human3d_fit_compressed.gif" align="left" style="width:520px; height:200px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Fitting SMPL to RGBD images
+ </font></b>
+<br>
+<br>
+I made optimization based SMPL fitting algorithm on RGBD images. The pipeline follows SMPLify and VideoAvatar.
 <br>
 </div>
 <br>
