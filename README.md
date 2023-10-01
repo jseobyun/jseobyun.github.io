@@ -3,7 +3,7 @@
 ### About me
 Hello, I'm Jongseob Yun. Thanks to visit this page! I've focused on computer vision and computer graphics that handle human stuffs(face, body pose/shape) and 3D geometric tasks (SfM, MVS, surface reconstruction, neural rendering). I am currently working at NAVERLABS, Korea. Please contact me if you need through e-mail!
 
-**Curriculum Vitae** : It will be updated soon \
+**Curriculum Vitae** : [link](./docs/Simple_short_CV___2023_01_01_.pdf) \
 **LinkedIn** : [link](https://www.linkedin.com/in/%EC%A2%85%EC%84%AD-%EC%9C%A4-5b4193260/) \
 **Blog (Korean only)** : [link](https://jseobyun.tistory.com) \
 **Contact** :  jseob.y@naverlabs.com
