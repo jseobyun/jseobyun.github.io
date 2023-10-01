@@ -308,3 +308,21 @@ I was selected the student of On Dream Future Industry Graduate School Scholarsh
 <br>
 </div>
 </p>
+
+<br>
+
+### Personal Things
+<img src="images/basket0.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/basket2.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> Basketball Team, POBBA (POSTECH)
+ </font></b>
+<br>
+I've been basketball team member since 2014 and still enjoyed games with our sernios and juniors. Additionally I've done steadily workout for 8 years.
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+</p>
