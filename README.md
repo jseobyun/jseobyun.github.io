@@ -10,8 +10,9 @@ Hello, I'm Jongseob Yun. Thanks to visit this page! I've focused on computer vis
 <br>
 
 ### Education
-**1)** Master degree from [VILAB](http://vi.kaist.ac.kr/) advised by Prof. [Kuk-Jin Yoon](https://scholar.google.ca/citations?user=1NvBj_gAAAAJ&hl=en), Korea Advanced Institute of Science and Technology(KAIST) \
-**2)** Baschelor's degree at Pohang University of Science and Technology(POSTECH)
+**1)** Ph.D. Candidate in [VILAB](http://vi.kaist.ac.kr/) advised by Prof. [Kuk-Jin Yoon](https://scholar.google.ca/citations?user=1NvBj_gAAAAJ&hl=en), Korea Advanced Institute of Science and Technology(KAIST) from 2024 ~ . \
+**2)** Master degree from [VILAB](http://vi.kaist.ac.kr/) advised by Prof. [Kuk-Jin Yoon](https://scholar.google.ca/citations?user=1NvBj_gAAAAJ&hl=en), Korea Advanced Institute of Science and Technology(KAIST) \
+**3)** Baschelor's degree at Pohang University of Science and Technology(POSTECH)
 <br>
 
 ### Expertise
@@ -199,24 +200,40 @@ I've covered various camera model(BC, KB, UCM, DS, etc.) and reproduced them usi
 </p>
 
 ### Career
-<!--naverlabs-->
+<!--polygom-->
 <p>
-<img src="images/naverlabs0.png" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
-<img src="images/naverlabs1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/polygom_logo.png" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/polygom_data.png" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
 <div style="margin-bottom:60px;">
-<b><font color="0066CC"> NAVERLABS, KOREA (2020.12 ~ now)
+<b><font color="0066CC"> POLYGOM, KOREA (2024.04 ~ now)
  </font></b>
 <br>
 <br>
-I've been working at Robot vision team in Vision group as <b>Technical Research Personnemilitary</b> which is one kind of military service. 
+I am currently working at POLYGOM, start-up that handling 3D digital humans. Specifically, face reconstruction is main point. 
 <br>
 <br>
 <br>
 <br>
 <br>
 </div>
+</p>
 
-
+<!--naverlabs-->
+<p>
+<img src="images/naverlabs0.png" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<img src="images/naverlabs1.jpg" align="left" style="width:250px; height:170px; margin-right:10px;  vertical-align=middle;">
+<div style="margin-bottom:60px;">
+<b><font color="0066CC"> NAVERLABS, KOREA (2020.12 ~ 2024.03)
+ </font></b>
+<br>
+<br>
+I worked at Robot vision team in Vision group as <b>Technical Research Personnemilitary</b> which is one kind of military service for 3 years. 
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
 </p>
 
 <!--keti-->
