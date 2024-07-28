@@ -342,4 +342,3 @@ I've been basketball team member since 2014 and still enjoyed games with our ser
 <br>
 <br>
 </div>
-</p>
